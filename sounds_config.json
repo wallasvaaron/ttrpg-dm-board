@@ -1,0 +1,21 @@
+{
+    "sound_effects": {
+      "Discord": [
+        "discord message sound.mp3"
+      ],
+      "Funny": [
+        "metal-pipe-falling-sound-effect-By-tuna.voicemod.net.mp3",
+        "hells_kitchen_dramatic.mp3",
+        "taco_bell_sound.mp3"
+      ]
+    },
+    "ambient_sounds": {
+      "Jungle": [
+        "tasoon jungle.mp3",
+        "Lost In The Jungle.mp3"
+      ],
+      "Spongebob": [
+        "spongebob_sad.mp3"
+      ]
+    }
+  }
